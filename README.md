@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Teteration/Teteration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Application Security Engineer & Penetration Tester
 
-Here are some ideas to get you started:
+### 🛡️ About Me
+I am a security professional focused on **Web Application Security**, **Mobile Penetration Testing**, and **Automating Security Workflows**. I specialize in identifying vulnerabilities (OWASP Top 10) and securing the SDLC pipeline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Automated Vulnerability Scanning Tools**
+- 🎓 I’m currently studying **Advanced Exploit Development**
+- 🔐 PGP Key: `[Link to your Public Key]`
+- 💬 Ask me about **AppSec, Penetration Testing, and DevSecOps**
+
+---
+
+### 🛠️ Arsenal & Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **offensive** | Burp Suite Pro, Metasploit, Nmap, SQLMap, Frida, Nuclei |
+| **Languages** | Python, Bash, Go, SQL |
+| **AppSec** | SAST/DAST Integration, SonarQube, Dependency Track |
+| **Environment** | Linux, Docker, Windows |
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahdi-hamedi-a05bab207/">LinkedIn</a> • 
+  <a href="https://t.me/mhamedii>Telegram</a> • 
+  <a href="mailto:mahdihamedi79@example.com">Email</a>
+</div>
