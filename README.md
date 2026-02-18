@@ -6,7 +6,7 @@ I am a security professional focused on **Web Application Security**, **Mobile P
 
 - 🔭 I’m currently working on **Automated Vulnerability Scanning Tools**
 - 🎓 I’m currently studying **Advanced Exploit Development**
-- 🔐 PGP Key: `[Download public.asc](https://github.com/Teteration/public.asc)`
+- 🔐 PGP Key: [Download public.asc](https://github.com/Teteration/public.asc)
 - 💬 Ask me about **AppSec, Penetration Testing, and DevSecOps**
 
 ---
