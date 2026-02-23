@@ -1,5 +1,5 @@
 
-# 👨‍💻 Application Security Engineer & Penetration Tester
+# Application Security Engineer & Penetration Tester
 
 ### 🛡️ About Me
 I am a security professional focused on **Web Application Security**, **Mobile Penetration Testing**, and **Automating Security Workflows**. I specialize in identifying vulnerabilities (OWASP Top 10) and securing the SDLC pipeline.
