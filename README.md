@@ -15,8 +15,8 @@ I am a security professional focused on **Web Application Security**, **Mobile P
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **offensive** | Burp Suite Pro, Frida, Nuclei |
-| **Languages** | Python, Bash, Go, SQL, JavaScript,  |
+| **offensive** | Burp Suite Pro, Frida |
+| **Languages** | Python, Bash, Go, SQL, JavaScript|
 | **AppSec** | SAST/DAST Integration, SonarQube, Dependency Track |
 | **Environment** | Linux, Docker, Windows |
 
